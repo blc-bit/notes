@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>BLC BIT Notes</title>
+    <link rel="icon" href="_media/favicon.png" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description" />
     <meta
@@ -18,10 +19,24 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "",
-        repo: "",
+        name: "BLC BIT Notes",
+        repo: "https://github.com/blc-bit/notes",
+        auto2top: true,
+        coverpage: false,
+        executeScript: true,
+        loadSidebar: true,
+        loadNavbar: true,
+        mergeNavbar: true,
+        maxLevel: 4,
+        subMaxLevel: 2,
+        search: {
+          noData: {
+            "/": "No results!",
+          },
+        },
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
   </body>
 </html>

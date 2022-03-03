@@ -1,14 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
 body {
   font-family: "Poppins", sans-serif;
 }
 
 .name {
-  border: 1px solid rgb(22, 158, 17);
-  font-size: 30px;
-  background: linear-gradient(130deg, #ff7e00, #ffffff, #5cff00);
+  border: 1px dotted rgb(22, 158, 17);
+  font-size: 28px;
+  font-weight: 600;
+  background: linear-gradient(130deg, #e2df15, #ffffff, #5cff00);
   background-size: 200% 200%;
-  border-radius: 10px;
+  border-radius: 7px;
 
   -webkit-animation: Animation 5s ease infinite;
   -moz-animation: Animation 5s ease infinite;

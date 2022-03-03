@@ -14,21 +14,35 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
     />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"
+      title="dark"
+      disabled
+    />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "BLC BIT Notes",
-        repo: "https://github.com/blc-bit/notes",
+        name: "<span class='name'>&nbsp;BLC BIT Notes&nbsp;</span>",
+        repo: "blc-bit/notes",
+        el: "#app",
         auto2top: true,
-        coverpage: false,
+        coverpage: true,
         executeScript: true,
         loadSidebar: true,
+        autoHeader: true,
         loadNavbar: true,
         mergeNavbar: true,
-        maxLevel: 4,
+        mergeNavbar: true,
+        maxLevel: 3, // toc level
         subMaxLevel: 2,
+        // logo: "/_media/favicon.png",
+        formatUpdated: "{MM}/{DD} {HH}:{mm}",
+        notFoundPage: true,
+        notFoundPage: "404.md",
         search: {
           noData: {
             "/": "No results!",

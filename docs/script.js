@@ -10,14 +10,17 @@ window.$docsify = {
   loadNavbar: false,
   mergeNavbar: false,
   maxLevel: 4, // toc level
-  subMaxLevel: 2,
+  subMaxLevel: 3,
   // logo: "/_media/favicon.png",
   formatUpdated: "{MM}/{DD} {HH}:{mm}",
   notFoundPage: true,
   notFoundPage: "_404.md",
   search: {
-    noData: {
-      "/": "No results!",
-    },
+    // maxAge: 86400000, // Expiration time, the default one day
+    paths: "auto",
+    placeholder: "Type to search",
+    noData: "No Results!",
+    depth: 6, // 1-6
+    hideOtherSidebarContent: false, // whether or not to hide other sidebar content
   },
 };

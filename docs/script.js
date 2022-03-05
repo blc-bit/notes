@@ -12,7 +12,7 @@ window.$docsify = {
   maxLevel: 4, // toc level
   subMaxLevel: 3,
   // logo: "/_media/favicon.png",
-  formatUpdated: "{MM}/{DD} {HH}:{mm}",
+  // formatUpdated: "{MM}/{DD} {HH}:{mm}",
   notFoundPage: true,
   notFoundPage: "_404.md",
   search: {

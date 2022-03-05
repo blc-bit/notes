@@ -18,7 +18,7 @@ window.$docsify = {
   search: {
     // maxAge: 86400000, // Expiration time, the default one day
     paths: "auto",
-    placeholder: "Type to search",
+    placeholder: "Type to search ( Any content )",
     noData: "No Results!",
     depth: 6, // 1-6
     hideOtherSidebarContent: false, // whether or not to hide other sidebar content

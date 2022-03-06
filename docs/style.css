@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Hi+Melody&family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Modern+Antiqua&family=Poppins&display=swap");
 
 body {
   font-family: "Poppins", sans-serif;
@@ -6,8 +6,8 @@ body {
 
 .name {
   border: 1px dotted rgb(22, 158, 17);
-  font-size: 44px;
-  font-family: "Hi Melody", cursive;
+  font-size: 30px;
+  font-family: "Modern Antiqua", cursive;
   font-weight: 500;
   background: linear-gradient(130deg, #e2df15, #ffffff, #5cff00);
   background-size: 200% 200%;

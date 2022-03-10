@@ -123,8 +123,6 @@ Lines represent the flow of the sequence and direction of a process.
 
 ![flowchart_flow](c-programming-assets/flowchart_flow.png)
 
-[sa](./c-programming-assets/test.pdf)
-
 - Pseudocode
 
 ### Coding (Programming)
@@ -188,3 +186,90 @@ These information includes:
 **User's Documentation**
 
 User documentation is required for the end user who installs and uses the program. It consists instructions for installation of the program and user manual.
+
+## History of C
+
+The base or father of programming languages is ‘ALGOL.’ It was first introduced in 1960. ‘ALGOL’ was used on a large basis in European countries. ‘ALGOL’ introduced the concept of structured programming to the developer community. In 1967, a new computer programming language was announced called as ‘BCPL’ which stands for Basic Combined Programming Language. BCPL was designed and developed by Martin Richards, especially for writing system software. This was the era of programming languages. Just after three years, in 1970 a new programming language called ‘B’ was introduced by Ken Thompson that contained multiple features of ‘BCPL.’ This programming language was created using UNIX operating system at AT&T and Bell Laboratories. Both the ‘BCPL’ and ‘B’ were system programming languages.
+
+![history-of-c-dennis](c-programming-assets/history-of-c-dennis.jpg)
+
+In 1972, a great computer scientist Dennis Ritchie created a new programming language called ‘C’ at the Bell Laboratories. It was created from ‘ALGOL’, ‘BCPL’ and ‘B’ programming languages. ‘C’ programming language contains all the features of these languages and many more additional concepts that make it unique from other languages.
+
+‘C’ is a powerful programming language which is strongly associated with the UNIX operating system. Even most of the UNIX operating system is coded in ‘C’. Initially ‘C’ programming was limited to the UNIX operating system, but as it started spreading around the world, it became commercial, and many compilers were released for cross-platform systems. Today ‘C’ runs under a variety of operating systems and hardware platforms. As it started evolving many different versions of the language were released. At times it became difficult for the developers to keep up with the latest version as the systems were running under the older versions. To assure that ‘C’ language will remain standard, American National Standards Institute (ANSI) defined a commercial standard for ‘C’ language in 1989. Later, it was approved by the International Standards Organization (ISO) in 1990. ‘C’ programming language is also called as ‘ANSI C’.
+
+![history-of-programming-lang](c-programming-assets/history-of-programming-lang.png)
+
+Languages such as C++/Java are developed from ‘C’. These languages are widely used in various technologies. Thus, ‘C’ forms a base for many other languages that are currently in use.
+
+**Different section of C programs**
+
+- Documentation Section
+  Documentation section is generally description of program. Documentation section of c programming consists program's name, program's objective, author name and creation date etc.
+
+Example
+
+```c
+/* This program calculates area of circle
+Author: Ramesh Bhandari
+Date: November 27, 2017
+*/
+```
+
+- Header File Section
+  This section includes all necessary header files which are required for the working of different function in program.
+
+Example
+
+```c
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+```
+
+- Definition Section
+  This section is used to define symbolic constants. Generally capital letter is used to define symbolic constants.
+
+Example
+
+```c
+#define PI 3.141592
+#define SIZE 10
+#define GOLDENRATIO 1.618
+
+// Here PI, SIZE and GOLDENRATIO are symbolic constants
+```
+
+- Global Variable and Function Prototype Section
+  This section is used to declare global variables. Global variables are generally used in more than one function. Similarly all prototypes of sub-program (user defined functions) are declared in this section.
+
+```c
+/* Global Variables */
+int a;
+float b;
+char c;
+/* End of Global Variables */
+/* Function Prototype Section */
+int sum(int x, int y);
+void message( void );
+/* End of Function Prototype Section */
+```
+
+- Main Function Section
+  Every C program must have main() function. It consists two parts, namely, local variable declaration section and executable statement section, and these two parts must be in between opening and closing braces.
+
+- Local Variable Declaration Section
+  This section is used for declaring local variables which are to be used in executable statement part.
+
+Example
+
+```c
+int x;
+float y;
+char z;
+```
+
+- Executable Statement Section
+  Executable statement section consists all the instructions to be executed. The program execution starts from opening brace of `main()` function and ends at closing brace of `main()` function. The closing brace of `main()` function is logical end of program.
+
+- Sub Program Section
+  This section consists definition of all user defined function that are declared in function prototype section.

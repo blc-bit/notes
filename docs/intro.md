@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Table of contents
 
-Please find semester wise **table of contents** below
-
 ## Semesters
 
 These are the list of semesters
@@ -21,24 +19,24 @@ These are the list of semesters
 
 #### [Internet Fundamental and Applications](./Semester-1/internet-fundamentals)
 
-Learn more: <https://en.wikiversity.org/wiki/Internet_Fundamentals>
+<!-- Learn more: <https://en.wikiversity.org/wiki/Internet_Fundamentals> -->
 
-#### Basic Computer Architecture
+#### [Basic Computer Architecture](./Semester-1/basic-computer-architecture)
 
-Learn more: <https://en.wikipedia.org/wiki/Computer_architecture>
+<!-- Learn more: <https://en.wikipedia.org/wiki/Computer_architecture> -->
 
-#### Business English
+#### [Business English](./Semester-1/business-english)
 
-Learn more: <https://en.wikipedia.org/wiki/Business_English>
+<!-- Learn more: <https://en.wikipedia.org/wiki/Business_English> -->
 
-#### Computer Network
+#### [Computer Network](./Semester-1/computer-network)
 
-Learn more: <https://en.wikipedia.org/wiki/Computer_network>
+<!-- Learn more: <https://en.wikipedia.org/wiki/Computer_network> -->
 
-#### C-Programming
+#### [C Programming](./Semester-1/c-programming)
 
-Learn more: <https://en.wikipedia.org/wiki/C_(programming_language)>
+<!-- Learn more: <https://en.wikipedia.org/wiki/C_(programming_language)> -->
 
-#### Math I
+#### [Math I](./Semester-1/maths)
 
-Learn more: <https://en.wikipedia.org/wiki/Mathematics>
+<!-- Learn more: <https://en.wikipedia.org/wiki/Mathematics> -->

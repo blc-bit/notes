@@ -7,7 +7,9 @@ sidebar_position: 6
 
 ## Limit and continuity
 
-?> **Part 1 (Limits and continuity)**
+:::tip Part 1
+**Limits and continuity**
+:::
 
 <iframe
     width="640"
@@ -18,7 +20,9 @@ sidebar_position: 6
 
 </iframe>
 
-?> **Part 2 (Limits and continuity)**
+:::tip Part 2
+**Limits and continuity**
+:::
 
 <iframe
     width="640"
@@ -29,7 +33,9 @@ sidebar_position: 6
 
 </iframe>
 
-?> **Part 3 (Limits and continuity)**
+:::tip Part 3
+**Limits and continuity**
+:::
 
 <iframe
     width="640"
@@ -40,7 +46,9 @@ sidebar_position: 6
 
 </iframe>
 
-?> **Part 4 (Limits and continuity)**
+:::tip Part 4
+**Limits and continuity**
+:::
 
 <iframe
     width="640"

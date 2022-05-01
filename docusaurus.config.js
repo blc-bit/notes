@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "BLC BIT Notes",
   tagline: "Bachelor of Information Technology Notes",
-  url: "/notes/",
+  url: "https://blc-bit.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

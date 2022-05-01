@@ -29,7 +29,7 @@ sidebar_position: 1
 
 :::tip See also
 
-[History of the Interne (Wikipedia)](https://en.wikipedia.org/wiki/History_of_the_Internet)
+[History of the Internet (Wikipedia)](https://en.wikipedia.org/wiki/History_of_the_Internet)
 
 :::
 

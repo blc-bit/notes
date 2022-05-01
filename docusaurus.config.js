@@ -9,7 +9,7 @@ const config = {
   title: "BLC BIT Notes",
   tagline: "Bachelor of Information Technology Notes",
   url: "https://blc-bit.github.io",
-  baseUrl: "/",
+  baseUrl: "/notes/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",

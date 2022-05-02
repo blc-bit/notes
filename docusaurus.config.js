@@ -94,7 +94,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BLC BIT Notes. Built with Docusaurus!`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bachelor of Information Technology (blc-bit) Notes`,
       },
       prism: {
         theme: lightCodeTheme,

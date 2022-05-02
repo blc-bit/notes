@@ -9,7 +9,7 @@ sidebar_position: 3
 
 **Question 1, Find the meaning of the following words**
 
-Campaign ➡️ Operation / movement
+Campaign ➡️ Operation / Movement
 
 Convince ➡️ Persuade
 
@@ -29,31 +29,31 @@ Firm ➡️ Company
 
 **Question 2, Using the above words, fill in the blanks**
 
-2. To sell a product in a foreign country, often has to write new ads.
+2. To sell a product in a foreign country, a <ins>firm</ins> often has to write new ads.
 
-3. Global business such as Mc Donald's offer. different products in different parts of the world.
+3. <ins>Global</ins> business such as Mc Donald's offer different products in different parts of the world.
 
 4. The goal of advertisers is to sell their production.
 
-5. Laws about advertising campaign are not the same all over the world.
+5. Laws about advertising <ins>campaign</ins> are not the same all over the world.
 
-6. Some advertisers fail because they understand the customs of country.
+6. Some advertisers <ins>fail</ins> because they understand the customs of country.
 
-7. An advertising message may not be easily translated from one language to another.
+7. An advertising <ins>message</ins> may not be easily translated from one language to another.
 
-8. The market of Latin America are not necessarily similar just because most people speak the same language.
+8. The <ins>market</ins> of Latin America are not necessarily similar just because most people speak the same language.
 
-9. In Japan, famous movie stars often appear in ads to convince people to buy products
+9. In Japan, famous movie stars often appear in ads to <ins>convince</ins> people to buy products.
 
-10. Advertisement that succeed use different styles of communication in different parts of th world.
+10. Advertisement that <ins>succeed</ins> use different styles of communication in different parts of th world.
 
-11. Some advertisements sat that why their products is better than the competition.
+11. Some advertisements sat that why their products is better than the <ins>competition</ins>.
 
 ## Letters
 
-### Sales letter
+### Sales Letter
 
-A sales letter is a direct main written by a vendor or a company to the customer or probable customer describing about new schemes or products to persuade them to get them purchased.
+A sales letter is a direct mail written by a vendor or a company to the customer or probable customer describing about new schemes or products to persuade them to get them purchased.
 
 ### Memo
 
@@ -90,7 +90,7 @@ faculty are to be on the ground for photo shoot.
 So, all the students should be there before 9:30.
 ```
 
-### Complaint letter
+### Complaint Letter
 
 A complaint letter is a formal complaint written to a goods or service provider with the mention of dissatisfaction caused by faulty, improper goods or services or delay in delivery manner of staffs or price and quality issue
 
@@ -110,6 +110,28 @@ _Steps of writing complaint letter_
 - While writing a complaint you should not forget to mention the date and batch number of product exactly with your complaint.
 - You can ask for replacement or compensation at the same time.
 - Get your letter concluded with your name.
+
+## Parallel Sentences
+
+1. The Student brushed their teeth. Packed their bag and caught the bus.
+2. The teacher walked between the desks, across the classroom and out the door.
+3. The professor enjoys running in the park, listening to music and swimming in the lake.
+4. My English Conversation class is made up of Chinese, Spaniards, and Bosnia.
+5. The students who do well attend class, they do their homework, and practice speaking in English.
+6. The teacher wanted to know which country we came from and what our future goals were.
+7. The language skills of the students in the evening classes are the same as the language skills of the students in the day classes.
+8. Mika wanted to catch a snake Put in a cage, and take it to catch a snake Put in a cage, school.
+9. she was a woman who loved programmer, enjoyed sen statements, and adored semicolons.
+10. I came, I saw, I conquered.
+11. I am reading about dogs, cats and birds.
+12. I plan to walk the dog, write a letter and and go to bed.
+13. He was talking on the phone and doing homework at the same time.
+14. The coach told the players that they should get a lot of sleep, not too much and do some 4 warm up exercises before the game.
+15. I am not much of an athlete, but I like softball, Soccer and hockey.
+16. Dominic does not have enough time to play Soccer, to join the debating team and to participate in band.
+17. He said that he would meet you at the soccer field and that you should not be late.
+18. He likes to talking eating candy, and going to soccer games.
+19. This weekend I will go to: Soccer practice on Saturday, have dinner with friends on Saturday night, and then 1-am excited to be going to a sci-fi convention on sunday. The players are excited, eager, and enthusiastic.
 
 ## Business English Expression
 

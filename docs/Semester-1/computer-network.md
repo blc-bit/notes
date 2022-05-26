@@ -23,7 +23,7 @@ The following figure shows a network along with its components
 
 ![computer-network-componenet](computer-network-assets/computer-network-componenet.jpg)
 
-- Hardware Components
+**Hardware Components**
 
 **Servers**
 

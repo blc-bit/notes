@@ -5,6 +5,12 @@ sidebar_position: 5
 
 # C-Programming
 
+:::tip C programs in github
+
+[Click to goto GitHub](https://github.com/sanamhub/c#c-programming-reference)
+
+:::
+
 ## Problem Solving in Computer
 
 Computer based problem solving is a systematic process of designing, implementing and using programming tools during the problem solving stage. This method enables the computer system to be more intuitive with human logic than machine logic. Final outcome of this process is software tools which is dedicated to solve the problem under consideration. Software is just a collection of computer programs and programs are a set of instructions which guides computer’s hardware. These instructions need to be well specified for solving the problem. After its creation, the software should be error free and well documented. Software development is the process of creating such software, which satisfies end user’s requirements and needs.
@@ -55,14 +61,14 @@ In program design we are mainly interested in designing:
 An algorithm is a step by step instruction written for any computational task for specific purpose. Each instruction tells what task is to be done. specification of a sequence of instruction to do a job in many fields.
 
 Explore more:\
-https://en.wikipedia.org/wiki/Algorithm
+<https://en.wikipedia.org/wiki/Algorithm>
 
 #### Flowchart
 
 The diagrammatical representation of an instruction written. in algorithm with the help of special symbols is known as flowchart. Flowchart typically shows a program's logic
 
 Explore more:\
-https://en.wikipedia.org/wiki/Flowchart
+<https://en.wikipedia.org/wiki/Flowchart>
 
 ##### Flowchart symbols
 
